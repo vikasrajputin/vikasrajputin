@@ -3,7 +3,7 @@ Myself, Vikas from India. Coder by profession and Teacher by passion.
 
 - 🔭 &nbsp;I’m currently working on Java, Spring Boot, Docker, Kubernetes and Microservices
 - 💬 &nbsp;Ask me about anything related to Java & Backend Development on [Twitter](https://www.twitter.com/vikasrajputin/)
-- 👨‍💻 &nbsp;Read more about my full story at [vikasrajput.in](https://www.vikasrajput.in/story)
+- 👨‍💻 &nbsp;Read more about my full story at [vikasrajput.in](https://www.vikasrajput.in/about-me)
 - ⚡ &nbsp;Love sharing about my experience and challenges as Software Engineer on Twitter, Linkedin and Instagram.
 
 📕 &nbsp;**Latest Blog Posts**
