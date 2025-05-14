@@ -1,6 +1,6 @@
 # 👋 Welcome to Vikas Rajput’s GitHub
 
-### 💼 Senior Java Full Stack Consultant | 🧠 Founder of [TechXplore.io](https://techxplore.io)
+### 💼 Senior Java Full Stack Consultant | 🧠 Founder of [Techxplore.io](https://techxplore.io)
 
 **Vikas Rajput** is a highly experienced **Java Full Stack Consultant** with over **11 years of expertise** in building robust, scalable, and secure software solutions. He is the **Founder of TechXplore.io**, a software development company that helps startups and enterprises bring their digital ideas to life.
 
